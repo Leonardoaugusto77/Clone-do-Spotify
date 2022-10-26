@@ -7,4 +7,5 @@
 </ul>
 <br>
 
-  <img src="img.png" alt="">
+   <img src="img/Print.png" alt="">
+
